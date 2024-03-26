@@ -1,8 +1,7 @@
 # Bitcoin-Daily-Rate-Time-Series
 A time-series data analysis of daily Bitcoin market prices from January 1, 2022, to February 29, 2024.
 
-![Bitcoin](https://github.com/Mwayi011/Bitcoin-Daily-Rate-Time-Series/assets/162637586/1860f95a-8bf0-4099-8705-a99b8730c52d)
-
+![depositphotos_144548047-stock-illustration-crypto-currency-bitcoin-golden-symbol](https://github.com/Mwayi011/Bitcoin-Daily-Rate-Time-Series/assets/162637586/a1c89c12-e04f-4c37-bafc-b845b0f7e660)
 
 
 **Key Questions**
